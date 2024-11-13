@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Etec Jobs",
+    "slug": "snack-ac2e9af8-b8c6-43e8-8855-b39204bf6cca",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ETEC-SJC3.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/ETEC-SJC3.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/ETEC-SJC3.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.rodrideandrade.snackac2e9af8b8c643e88855b39204bf6cca"
+    },
+    "web": {
+      "favicon": "./assets/ETEC-SJC3.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e4d08102-7e8f-4ee1-ae8e-ff5539dd0a6b"
+      }
+    }
+  }
+}
